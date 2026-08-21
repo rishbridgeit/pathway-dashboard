@@ -169,7 +169,8 @@ function clearItemHTML(label, i) {
 }
 
 function jobItemHTML(job, i) {
-  return `<div class="dropdown-item" data-idx="${i}"><span>${esc(job.name)}</span><span class="dropdown-item-sub">#${job.rank}</span></div>`;
+  const badge = jobHasSalary(job.rank) ? '<span class="job-salary-badge">$</span>' : '';
+  return `<div class="dropdown-item" data-idx="${i}"><span class="dropdown-item-main">${badge}${esc(job.name)}</span><span class="dropdown-item-sub">#${job.rank}</span></div>`;
 }
 function cityItemHTML(city, i) {
   return `<div class="dropdown-item" data-idx="${i}"><span>${esc(city.city)}</span><span class="dropdown-item-sub">${esc(state.stateAbbrev[city.state] || city.state)}</span></div>`;
@@ -184,7 +185,14 @@ let jobTA, stateTA1, stateTA2, stateTA3, cityTA1, cityTA2, cityTA3;
 function initTypeaheads() {
   jobTA = setupTypeahead({
     inputId: 'jobInput', dropdownId: 'jobDropdown', showAllOnFocus: true, minChars: 0,
-    getItems: (q) => state.jobs.filter(j => j.name.toLowerCase().includes(q)),
+    getItems: (q) => state.jobs
+      .filter(j => j.name.toLowerCase().includes(q))
+      .sort((a, b) => {
+        const aSal = jobHasSalary(a.rank) ? 0 : 1;
+        const bSal = jobHasSalary(b.rank) ? 0 : 1;
+        if (aSal !== bSal) return aSal - bSal;
+        return a.rank - b.rank;
+      }),
     renderItem: jobItemHTML, displayValue: (j) => j.name,
     onSelect: (j) => { state.selectedJobRank = j.rank; renderAll(); },
   });
@@ -230,6 +238,11 @@ function syncJobInput() { const job = state.jobs.find(j => j.rank === state.sele
 // Derived data + rendering
 // ---------------------------------------------------------------
 function resultsForSelectedJob() { return state.results.filter(r => r.jobRank === state.selectedJobRank); }
+
+function jobHasSalary(rank) {
+  if (!state.hasSalaryData) return false;
+  return state.results.some(r => r.jobRank === rank && r.avgSalary !== null && !isNaN(r.avgSalary));
+}
 function applyLocationFilters(rows) {
   let out = rows;
   if (state.selectedState) out = out.filter(r => r.state === state.selectedState);

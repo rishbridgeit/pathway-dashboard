@@ -74,7 +74,8 @@ async function loadData() {
     }));
 
   renderLastUpdated();
-  state.selectedJobRank = state.jobs.length ? state.jobs[0].rank : null;
+  const salaryJob = state.jobs.find(j => jobHasSalary(j.rank));
+  state.selectedJobRank = salaryJob ? salaryJob.rank : (state.jobs.length ? state.jobs[0].rank : null);
   syncJobInput();
   renderAll();
 }
@@ -169,8 +170,7 @@ function clearItemHTML(label, i) {
 }
 
 function jobItemHTML(job, i) {
-  const badge = jobHasSalary(job.rank) ? '<span class="job-salary-badge">$</span>' : '';
-  return `<div class="dropdown-item" data-idx="${i}"><span class="dropdown-item-main">${badge}${esc(job.name)}</span><span class="dropdown-item-sub">#${job.rank}</span></div>`;
+  return `<div class="dropdown-item" data-idx="${i}"><span class="dropdown-item-main"><span class="dropdown-item-num">${i + 1}.</span>${esc(job.name)}</span></div>`;
 }
 function cityItemHTML(city, i) {
   return `<div class="dropdown-item" data-idx="${i}"><span>${esc(city.city)}</span><span class="dropdown-item-sub">${esc(state.stateAbbrev[city.state] || city.state)}</span></div>`;

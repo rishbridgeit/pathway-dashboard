@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pathway Dashboard · JobSpikr Data Pull</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="shell">
+
+  <!-- ============ SIDEBAR ============ -->
+  <aside class="sidebar">
+    <div class="sb-brand">
+      <span class="sb-logo">&#9670;</span>
+      <span class="sb-brand-name">Bridge-it</span>
+    </div>
+
+    <nav class="sb-nav">
+      <div class="sb-item active">
+        <span class="sb-icon">&#9632;</span> Pathway Dashboard
+      </div>
+      <div class="sb-subitem active">Dashboard</div>
+
+      <div class="sb-item"><span class="sb-icon">&#9633;</span> Academic</div>
+      <div class="sb-item"><span class="sb-icon">&#9633;</span> Continuing Education</div>
+      <div class="sb-item"><span class="sb-icon">&#9633;</span> Skills &amp; Experiences</div>
+      <div class="sb-item"><span class="sb-icon">&#9633;</span> Financial</div>
+      <div class="sb-item"><span class="sb-icon">&#9633;</span> Career Exploration</div>
+      <div class="sb-item"><span class="sb-icon">&#9633;</span> Message Center</div>
+      <div class="sb-item"><span class="sb-icon">&#9633;</span> Student Support</div>
+      <div class="sb-item"><span class="sb-icon">&#9633;</span> Chat</div>
+      <div class="sb-item"><span class="sb-icon">&#9633;</span> Community</div>
+    </nav>
+
+    <div class="sb-footer">
+      <span class="sb-avatar">R</span>
+      <div class="sb-footer-text">
+        <span class="sb-footer-name">Rishabh</span>
+        <span class="sb-footer-sub">Data validation build</span>
+      </div>
+    </div>
+  </aside>
+
+  <!-- ============ MAIN ============ -->
+  <main class="main">
+
+    <div class="content-header">
+      <div class="ch-title">
+        <span class="ch-sparkle">&#10022;</span>
+        <div>
+          <h1>Pathway Dashboard</h1>
+        </div>
+      </div>
+      <div class="ch-actions">
+        <input class="ch-search" type="text" placeholder="Search&hellip;" disabled>
+        <span class="ch-icon-btn" title="Not wired up in this build"><span class="icon-svg"><svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M10 3.5c-2.2 0-4 1.8-4 4v2.8L4.5 13h11L14 10.3V7.5c0-2.2-1.8-4-4-4Z"/><path d="M8.3 15.5a1.8 1.8 0 0 0 3.4 0"/></svg></span></span>
+        <span class="ch-icon-btn" title="Not wired up in this build">?</span>
+        <span class="ch-avatar">R</span>
+      </div>
+    </div>
+
+    <div class="filter-row">
+      <div class="filter-right">
+        <div class="field typeahead pill-field" id="jobField">
+          <span class="pill-label">Job</span>
+          <input id="jobInput" type="text" autocomplete="off" placeholder="Search a job&hellip;">
+          <span class="pill-chevron">&#9662;</span>
+          <div class="dropdown" id="jobDropdown"></div>
+        </div>
+
+        <div class="field typeahead pill-field" id="stateField">
+          <span class="pill-label">State</span>
+          <input id="stateInput" type="text" autocomplete="off" placeholder="Any">
+          <span class="pill-chevron">&#9662;</span>
+          <div class="dropdown" id="stateDropdown"></div>
+        </div>
+
+        <div class="field typeahead pill-field" id="cityField">
+          <span class="pill-label">City</span>
+          <input id="cityInput" type="text" autocomplete="off" placeholder="Any">
+          <span class="pill-chevron">&#9662;</span>
+          <div class="dropdown" id="cityDropdown"></div>
+        </div>
+      </div>
+    </div>
+
+    <h2 class="page-heading" id="pageHeading">Hi Anna, here's Job Market Outlook right now.</h2>
+
+    <!-- ============ STAT CARDS ============ -->
+    <section class="stat-row">
+      <div class="stat-card">
+        <span class="stat-icon icon-violet"><span class="icon-svg"><svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="7" width="14" height="9" rx="1.5"/><path d="M7 7V5.5A1.5 1.5 0 0 1 8.5 4h3A1.5 1.5 0 0 1 13 5.5V7"/><path d="M3 11h14"/></svg></span></span>
+        <div class="stat-body">
+          <span class="stat-label">Postings found</span>
+          <div class="stat-line">
+            <span class="stat-value mono" id="statTotal">&mdash;</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="stat-card">
+        <span class="stat-icon icon-violet2"><span class="icon-svg"><svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M2 15c1.5-6 3-9 5-9s2 4 3 4 1.5-7 3.5-7 3 8 4.5 8"/></svg></span></span>
+        <div class="stat-body">
+          <span class="stat-label">Remote roles</span>
+          <div class="stat-line">
+            <span class="stat-value stat-na">Not available right now</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="stat-card unavailable">
+        <span class="stat-icon icon-violet"><span class="icon-svg"><svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M2 8.5 10 4l8 4.5-8 4.5-8-4.5Z"/><path d="M5.5 10.3V14c0 1.1 2 2 4.5 2s4.5-.9 4.5-2v-3.7"/><path d="M17 8.5v4.5"/></svg></span></span>
+        <div class="stat-body">
+          <span class="stat-label">Typical Degree Requirements</span>
+          <div class="stat-line">
+            <span class="stat-value stat-na">Not available</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="stat-card unavailable">
+        <span class="stat-icon icon-amber"><span class="icon-svg"><svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3" width="9" height="14"/><path d="M13 8h3v9h-3M7 6.5h1M7 9.5h1M7 12.5h1M9.5 6.5h1M9.5 9.5h1M9.5 12.5h1"/></svg></span></span>
+        <div class="stat-body">
+          <span class="stat-label">Hiring employers</span>
+          <div class="stat-line">
+            <span class="stat-value stat-na">Not available right now</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="stat-card" id="salaryCard">
+        <span class="stat-icon icon-green">$</span>
+        <div class="stat-body">
+          <span class="stat-label">Median salary</span>
+          <div class="stat-line">
+            <span class="stat-value mono" id="statSalary">&mdash;</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ 3-WIDGET ROW ============ -->
+    <section class="widget-row">
+
+      <div class="widget unavailable-widget">
+        <div class="widget-head">
+          <span class="widget-icon icon-violet"><span class="icon-svg"><svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3" width="9" height="14"/><path d="M13 8h3v9h-3M7 6.5h1M7 9.5h1M7 12.5h1M9.5 6.5h1M9.5 9.5h1M9.5 12.5h1"/></svg></span></span>
+          <div>
+            <h3>Top Companies</h3>
+            <p>Employers posting this job</p>
+          </div>
+          <span class="expand-btn">&#8599;</span>
+        </div>
+        <div class="widget-empty">
+          Not available &mdash; unconfirmed whether JobSpikr exposes an employer-name field.
+        </div>
+      </div>
+
+      <div class="widget">
+        <div class="widget-head">
+          <span class="widget-icon icon-violet"><span class="icon-svg"><svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M10 17.5s5.5-5 5.5-9A5.5 5.5 0 0 0 4.5 8.5c0 4 5.5 9 5.5 9Z"/><circle cx="10" cy="8.3" r="1.9"/></svg></span></span>
+          <div>
+            <h3>Job Demand by City</h3>
+            <p id="demandSub">Top cities for the selected job</p>
+          </div>
+          <span class="expand-btn">&#8599;</span>
+        </div>
+        <div class="widget-controls">
+          <div class="field typeahead" id="stateField2">
+            <input id="stateInput2" type="text" autocomplete="off" placeholder="All states">
+            <span class="pill-chevron">&#9662;</span>
+            <div class="dropdown" id="stateDropdown2"></div>
+          </div>
+          <div class="field typeahead search-field" id="cityField2">
+            <span class="search-icon"><span class="icon-svg"><svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="8.5" cy="8.5" r="5"/><path d="M15.5 15.5 12 12"/></svg></span></span>
+            <input id="cityInput2" type="text" autocomplete="off" placeholder="Search a city&hellip;">
+            <div class="dropdown" id="cityDropdown2"></div>
+          </div>
+        </div>
+        <div class="demand-list" id="demandList"></div>
+      </div>
+
+      <div class="widget" id="salaryWidget">
+        <div class="widget-head">
+          <span class="widget-icon icon-violet">$</span>
+          <div>
+            <h3>Annual Salary by Location</h3>
+            <p id="salarySub">Median salary estimate</p>
+          </div>
+          <span class="expand-btn">&#8599;</span>
+        </div>
+        <div class="widget-controls">
+          <div class="field typeahead" id="stateField3">
+            <input id="stateInput3" type="text" autocomplete="off" placeholder="All states">
+            <span class="pill-chevron">&#9662;</span>
+            <div class="dropdown" id="stateDropdown3"></div>
+          </div>
+          <div class="field typeahead search-field" id="cityField3">
+            <span class="search-icon"><span class="icon-svg"><svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="8.5" cy="8.5" r="5"/><path d="M15.5 15.5 12 12"/></svg></span></span>
+            <input id="cityInput3" type="text" autocomplete="off" placeholder="Search a city&hellip;">
+            <div class="dropdown" id="cityDropdown3"></div>
+          </div>
+        </div>
+        <div class="widget-empty" id="salaryEmpty">
+          Not captured in this pass. The API response includes min/max/avg salary per city &mdash; we're just not extracting it yet.
+        </div>
+        <div class="demand-list" id="salaryList" style="display:none;"></div>
+      </div>
+
+    </section>
+
+    <!-- ============ CHART ROW ============ -->
+    <section class="chart-row">
+      <div class="widget unavailable-widget">
+        <div class="widget-head">
+          <span class="widget-icon icon-violet">&#8599;</span>
+          <div>
+            <h3>Job Postings Trend</h3>
+            <p>Monthly postings over time</p>
+          </div>
+        </div>
+        <div class="widget-empty tall">
+          Not available &mdash; this pull queries a single month. A trend needs multiple
+          monthly buckets, which the API supports but we haven't queried yet.
+        </div>
+      </div>
+      <div class="widget unavailable-widget">
+        <div class="widget-head">
+          <span class="widget-icon icon-violet">&#8599;</span>
+          <div>
+            <h3>Median Salary Trend</h3>
+            <p>Salary over time, by location</p>
+          </div>
+        </div>
+        <div class="widget-empty tall">
+          Not available &mdash; same gap as above, plus salary fields aren't
+          extracted yet either.
+        </div>
+      </div>
+    </section>
+
+    <footer class="foot">
+      <p><span class="foot-dot" id="footDot"></span> <span id="lastUpdated">No results loaded yet</span> &middot;
+         built from JobSpikr <code>aggregate_data</code> responses, live-loaded from <code>data/results.csv</code>.</p>
+    </footer>
+
+  </main>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

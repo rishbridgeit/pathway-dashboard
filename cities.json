@@ -1,0 +1,3002 @@
+[
+  {
+    "rank": 1,
+    "city": "New York",
+    "state": "New York",
+    "population": 8405837
+  },
+  {
+    "rank": 2,
+    "city": "Los Angeles",
+    "state": "California",
+    "population": 3884307
+  },
+  {
+    "rank": 3,
+    "city": "Chicago",
+    "state": "Illinois",
+    "population": 2718782
+  },
+  {
+    "rank": 4,
+    "city": "Houston",
+    "state": "Texas",
+    "population": 2195914
+  },
+  {
+    "rank": 5,
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "population": 1553165
+  },
+  {
+    "rank": 6,
+    "city": "Phoenix",
+    "state": "Arizona",
+    "population": 1513367
+  },
+  {
+    "rank": 7,
+    "city": "San Antonio",
+    "state": "Texas",
+    "population": 1409019
+  },
+  {
+    "rank": 8,
+    "city": "San Diego",
+    "state": "California",
+    "population": 1355896
+  },
+  {
+    "rank": 9,
+    "city": "Dallas",
+    "state": "Texas",
+    "population": 1257676
+  },
+  {
+    "rank": 10,
+    "city": "San Jose",
+    "state": "California",
+    "population": 998537
+  },
+  {
+    "rank": 11,
+    "city": "Austin",
+    "state": "Texas",
+    "population": 885400
+  },
+  {
+    "rank": 12,
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "population": 843393
+  },
+  {
+    "rank": 13,
+    "city": "Jacksonville",
+    "state": "Florida",
+    "population": 842583
+  },
+  {
+    "rank": 14,
+    "city": "San Francisco",
+    "state": "California",
+    "population": 837442
+  },
+  {
+    "rank": 15,
+    "city": "Columbus",
+    "state": "Ohio",
+    "population": 822553
+  },
+  {
+    "rank": 16,
+    "city": "Charlotte",
+    "state": "North Carolina",
+    "population": 792862
+  },
+  {
+    "rank": 17,
+    "city": "Fort Worth",
+    "state": "Texas",
+    "population": 792727
+  },
+  {
+    "rank": 18,
+    "city": "Detroit",
+    "state": "Michigan",
+    "population": 688701
+  },
+  {
+    "rank": 19,
+    "city": "El Paso",
+    "state": "Texas",
+    "population": 674433
+  },
+  {
+    "rank": 20,
+    "city": "Memphis",
+    "state": "Tennessee",
+    "population": 653450
+  },
+  {
+    "rank": 21,
+    "city": "Seattle",
+    "state": "Washington",
+    "population": 652405
+  },
+  {
+    "rank": 22,
+    "city": "Denver",
+    "state": "Colorado",
+    "population": 649495
+  },
+  {
+    "rank": 23,
+    "city": "Washington",
+    "state": "District of Columbia",
+    "population": 646449
+  },
+  {
+    "rank": 24,
+    "city": "Boston",
+    "state": "Massachusetts",
+    "population": 645966
+  },
+  {
+    "rank": 25,
+    "city": "Nashville",
+    "state": "Tennessee",
+    "population": 634464
+  },
+  {
+    "rank": 26,
+    "city": "Baltimore",
+    "state": "Maryland",
+    "population": 622104
+  },
+  {
+    "rank": 27,
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "population": 610613
+  },
+  {
+    "rank": 28,
+    "city": "Louisville",
+    "state": "Kentucky",
+    "population": 609893
+  },
+  {
+    "rank": 29,
+    "city": "Portland",
+    "state": "Oregon",
+    "population": 609456
+  },
+  {
+    "rank": 30,
+    "city": "Las Vegas",
+    "state": "Nevada",
+    "population": 603488
+  },
+  {
+    "rank": 31,
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "population": 599164
+  },
+  {
+    "rank": 32,
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "population": 556495
+  },
+  {
+    "rank": 33,
+    "city": "Tucson",
+    "state": "Arizona",
+    "population": 526116
+  },
+  {
+    "rank": 34,
+    "city": "Fresno",
+    "state": "California",
+    "population": 509924
+  },
+  {
+    "rank": 35,
+    "city": "Sacramento",
+    "state": "California",
+    "population": 479686
+  },
+  {
+    "rank": 36,
+    "city": "Long Beach",
+    "state": "California",
+    "population": 469428
+  },
+  {
+    "rank": 37,
+    "city": "Kansas City",
+    "state": "Missouri",
+    "population": 467007
+  },
+  {
+    "rank": 38,
+    "city": "Mesa",
+    "state": "Arizona",
+    "population": 457587
+  },
+  {
+    "rank": 39,
+    "city": "Virginia Beach",
+    "state": "Virginia",
+    "population": 448479
+  },
+  {
+    "rank": 40,
+    "city": "Atlanta",
+    "state": "Georgia",
+    "population": 447841
+  },
+  {
+    "rank": 41,
+    "city": "Colorado Springs",
+    "state": "Colorado",
+    "population": 439886
+  },
+  {
+    "rank": 42,
+    "city": "Omaha",
+    "state": "Nebraska",
+    "population": 434353
+  },
+  {
+    "rank": 43,
+    "city": "Raleigh",
+    "state": "North Carolina",
+    "population": 431746
+  },
+  {
+    "rank": 44,
+    "city": "Miami",
+    "state": "Florida",
+    "population": 417650
+  },
+  {
+    "rank": 45,
+    "city": "Oakland",
+    "state": "California",
+    "population": 406253
+  },
+  {
+    "rank": 46,
+    "city": "Minneapolis",
+    "state": "Minnesota",
+    "population": 400070
+  },
+  {
+    "rank": 47,
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "population": 398121
+  },
+  {
+    "rank": 48,
+    "city": "Cleveland",
+    "state": "Ohio",
+    "population": 390113
+  },
+  {
+    "rank": 49,
+    "city": "Wichita",
+    "state": "Kansas",
+    "population": 386552
+  },
+  {
+    "rank": 50,
+    "city": "Arlington",
+    "state": "Texas",
+    "population": 379577
+  },
+  {
+    "rank": 51,
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "population": 378715
+  },
+  {
+    "rank": 52,
+    "city": "Bakersfield",
+    "state": "California",
+    "population": 363630
+  },
+  {
+    "rank": 53,
+    "city": "Tampa",
+    "state": "Florida",
+    "population": 352957
+  },
+  {
+    "rank": 54,
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "population": 347884
+  },
+  {
+    "rank": 55,
+    "city": "Aurora",
+    "state": "Colorado",
+    "population": 345803
+  },
+  {
+    "rank": 56,
+    "city": "Anaheim",
+    "state": "California",
+    "population": 345012
+  },
+  {
+    "rank": 57,
+    "city": "Santa Ana",
+    "state": "California",
+    "population": 334227
+  },
+  {
+    "rank": 58,
+    "city": "St. Louis",
+    "state": "Missouri",
+    "population": 318416
+  },
+  {
+    "rank": 59,
+    "city": "Riverside",
+    "state": "California",
+    "population": 316619
+  },
+  {
+    "rank": 60,
+    "city": "Corpus Christi",
+    "state": "Texas",
+    "population": 316381
+  },
+  {
+    "rank": 61,
+    "city": "Lexington-Fayette",
+    "state": "Kentucky",
+    "population": 308428
+  },
+  {
+    "rank": 62,
+    "city": "Pittsburgh",
+    "state": "Pennsylvania",
+    "population": 305841
+  },
+  {
+    "rank": 63,
+    "city": "Anchorage",
+    "state": "Alaska",
+    "population": 300950
+  },
+  {
+    "rank": 64,
+    "city": "Stockton",
+    "state": "California",
+    "population": 298118
+  },
+  {
+    "rank": 65,
+    "city": "Cincinnati",
+    "state": "Ohio",
+    "population": 297517
+  },
+  {
+    "rank": 66,
+    "city": "St. Paul",
+    "state": "Minnesota",
+    "population": 294873
+  },
+  {
+    "rank": 67,
+    "city": "Toledo",
+    "state": "Ohio",
+    "population": 282313
+  },
+  {
+    "rank": 68,
+    "city": "Greensboro",
+    "state": "North Carolina",
+    "population": 279639
+  },
+  {
+    "rank": 69,
+    "city": "Newark",
+    "state": "New Jersey",
+    "population": 278427
+  },
+  {
+    "rank": 70,
+    "city": "Plano",
+    "state": "Texas",
+    "population": 274409
+  },
+  {
+    "rank": 71,
+    "city": "Henderson",
+    "state": "Nevada",
+    "population": 270811
+  },
+  {
+    "rank": 72,
+    "city": "Lincoln",
+    "state": "Nebraska",
+    "population": 268738
+  },
+  {
+    "rank": 73,
+    "city": "Buffalo",
+    "state": "New York",
+    "population": 258959
+  },
+  {
+    "rank": 74,
+    "city": "Jersey City",
+    "state": "New Jersey",
+    "population": 257342
+  },
+  {
+    "rank": 75,
+    "city": "Chula Vista",
+    "state": "California",
+    "population": 256780
+  },
+  {
+    "rank": 76,
+    "city": "Fort Wayne",
+    "state": "Indiana",
+    "population": 256496
+  },
+  {
+    "rank": 77,
+    "city": "Orlando",
+    "state": "Florida",
+    "population": 255483
+  },
+  {
+    "rank": 78,
+    "city": "St. Petersburg",
+    "state": "Florida",
+    "population": 249688
+  },
+  {
+    "rank": 79,
+    "city": "Chandler",
+    "state": "Arizona",
+    "population": 249146
+  },
+  {
+    "rank": 80,
+    "city": "Laredo",
+    "state": "Texas",
+    "population": 248142
+  },
+  {
+    "rank": 81,
+    "city": "Norfolk",
+    "state": "Virginia",
+    "population": 246139
+  },
+  {
+    "rank": 82,
+    "city": "Durham",
+    "state": "North Carolina",
+    "population": 245475
+  },
+  {
+    "rank": 83,
+    "city": "Madison",
+    "state": "Wisconsin",
+    "population": 243344
+  },
+  {
+    "rank": 84,
+    "city": "Lubbock",
+    "state": "Texas",
+    "population": 239538
+  },
+  {
+    "rank": 85,
+    "city": "Irvine",
+    "state": "California",
+    "population": 236716
+  },
+  {
+    "rank": 86,
+    "city": "Winston-Salem",
+    "state": "North Carolina",
+    "population": 236441
+  },
+  {
+    "rank": 87,
+    "city": "Glendale",
+    "state": "Arizona",
+    "population": 234632
+  },
+  {
+    "rank": 88,
+    "city": "Garland",
+    "state": "Texas",
+    "population": 234566
+  },
+  {
+    "rank": 89,
+    "city": "Hialeah",
+    "state": "Florida",
+    "population": 233394
+  },
+  {
+    "rank": 90,
+    "city": "Reno",
+    "state": "Nevada",
+    "population": 233294
+  },
+  {
+    "rank": 91,
+    "city": "Chesapeake",
+    "state": "Virginia",
+    "population": 230571
+  },
+  {
+    "rank": 92,
+    "city": "Gilbert",
+    "state": "Arizona",
+    "population": 229972
+  },
+  {
+    "rank": 93,
+    "city": "Baton Rouge",
+    "state": "Louisiana",
+    "population": 229426
+  },
+  {
+    "rank": 94,
+    "city": "Irving",
+    "state": "Texas",
+    "population": 228653
+  },
+  {
+    "rank": 95,
+    "city": "Scottsdale",
+    "state": "Arizona",
+    "population": 226918
+  },
+  {
+    "rank": 96,
+    "city": "North Las Vegas",
+    "state": "Nevada",
+    "population": 226877
+  },
+  {
+    "rank": 97,
+    "city": "Fremont",
+    "state": "California",
+    "population": 224922
+  },
+  {
+    "rank": 98,
+    "city": "Boise City",
+    "state": "Idaho",
+    "population": 214237
+  },
+  {
+    "rank": 99,
+    "city": "Richmond",
+    "state": "Virginia",
+    "population": 214114
+  },
+  {
+    "rank": 100,
+    "city": "San Bernardino",
+    "state": "California",
+    "population": 213708
+  },
+  {
+    "rank": 101,
+    "city": "Birmingham",
+    "state": "Alabama",
+    "population": 212113
+  },
+  {
+    "rank": 102,
+    "city": "Spokane",
+    "state": "Washington",
+    "population": 210721
+  },
+  {
+    "rank": 103,
+    "city": "Rochester",
+    "state": "New York",
+    "population": 210358
+  },
+  {
+    "rank": 104,
+    "city": "Des Moines",
+    "state": "Iowa",
+    "population": 207510
+  },
+  {
+    "rank": 105,
+    "city": "Modesto",
+    "state": "California",
+    "population": 204933
+  },
+  {
+    "rank": 106,
+    "city": "Fayetteville",
+    "state": "North Carolina",
+    "population": 204408
+  },
+  {
+    "rank": 107,
+    "city": "Tacoma",
+    "state": "Washington",
+    "population": 203446
+  },
+  {
+    "rank": 108,
+    "city": "Oxnard",
+    "state": "California",
+    "population": 203007
+  },
+  {
+    "rank": 109,
+    "city": "Fontana",
+    "state": "California",
+    "population": 203003
+  },
+  {
+    "rank": 110,
+    "city": "Columbus",
+    "state": "Georgia",
+    "population": 202824
+  },
+  {
+    "rank": 111,
+    "city": "Montgomery",
+    "state": "Alabama",
+    "population": 201332
+  },
+  {
+    "rank": 112,
+    "city": "Moreno Valley",
+    "state": "California",
+    "population": 201175
+  },
+  {
+    "rank": 113,
+    "city": "Shreveport",
+    "state": "Louisiana",
+    "population": 200327
+  },
+  {
+    "rank": 114,
+    "city": "Aurora",
+    "state": "Illinois",
+    "population": 199963
+  },
+  {
+    "rank": 115,
+    "city": "Yonkers",
+    "state": "New York",
+    "population": 199766
+  },
+  {
+    "rank": 116,
+    "city": "Akron",
+    "state": "Ohio",
+    "population": 198100
+  },
+  {
+    "rank": 117,
+    "city": "Huntington Beach",
+    "state": "California",
+    "population": 197575
+  },
+  {
+    "rank": 118,
+    "city": "Little Rock",
+    "state": "Arkansas",
+    "population": 197357
+  },
+  {
+    "rank": 119,
+    "city": "Augusta-Richmond County",
+    "state": "Georgia",
+    "population": 197350
+  },
+  {
+    "rank": 120,
+    "city": "Amarillo",
+    "state": "Texas",
+    "population": 196429
+  },
+  {
+    "rank": 121,
+    "city": "Glendale",
+    "state": "California",
+    "population": 196021
+  },
+  {
+    "rank": 122,
+    "city": "Mobile",
+    "state": "Alabama",
+    "population": 194899
+  },
+  {
+    "rank": 123,
+    "city": "Grand Rapids",
+    "state": "Michigan",
+    "population": 192294
+  },
+  {
+    "rank": 124,
+    "city": "Salt Lake City",
+    "state": "Utah",
+    "population": 191180
+  },
+  {
+    "rank": 125,
+    "city": "Tallahassee",
+    "state": "Florida",
+    "population": 186411
+  },
+  {
+    "rank": 126,
+    "city": "Huntsville",
+    "state": "Alabama",
+    "population": 186254
+  },
+  {
+    "rank": 127,
+    "city": "Grand Prairie",
+    "state": "Texas",
+    "population": 183372
+  },
+  {
+    "rank": 128,
+    "city": "Knoxville",
+    "state": "Tennessee",
+    "population": 183270
+  },
+  {
+    "rank": 129,
+    "city": "Worcester",
+    "state": "Massachusetts",
+    "population": 182544
+  },
+  {
+    "rank": 130,
+    "city": "Newport News",
+    "state": "Virginia",
+    "population": 182020
+  },
+  {
+    "rank": 131,
+    "city": "Brownsville",
+    "state": "Texas",
+    "population": 181860
+  },
+  {
+    "rank": 132,
+    "city": "Overland Park",
+    "state": "Kansas",
+    "population": 181260
+  },
+  {
+    "rank": 133,
+    "city": "Santa Clarita",
+    "state": "California",
+    "population": 179590
+  },
+  {
+    "rank": 134,
+    "city": "Providence",
+    "state": "Rhode Island",
+    "population": 177994
+  },
+  {
+    "rank": 135,
+    "city": "Garden Grove",
+    "state": "California",
+    "population": 175140
+  },
+  {
+    "rank": 136,
+    "city": "Chattanooga",
+    "state": "Tennessee",
+    "population": 173366
+  },
+  {
+    "rank": 137,
+    "city": "Oceanside",
+    "state": "California",
+    "population": 172794
+  },
+  {
+    "rank": 138,
+    "city": "Jackson",
+    "state": "Mississippi",
+    "population": 172638
+  },
+  {
+    "rank": 139,
+    "city": "Fort Lauderdale",
+    "state": "Florida",
+    "population": 172389
+  },
+  {
+    "rank": 140,
+    "city": "Santa Rosa",
+    "state": "California",
+    "population": 171990
+  },
+  {
+    "rank": 141,
+    "city": "Rancho Cucamonga",
+    "state": "California",
+    "population": 171386
+  },
+  {
+    "rank": 142,
+    "city": "Port St. Lucie",
+    "state": "Florida",
+    "population": 171016
+  },
+  {
+    "rank": 143,
+    "city": "Tempe",
+    "state": "Arizona",
+    "population": 168228
+  },
+  {
+    "rank": 144,
+    "city": "Ontario",
+    "state": "California",
+    "population": 167500
+  },
+  {
+    "rank": 145,
+    "city": "Vancouver",
+    "state": "Washington",
+    "population": 167405
+  },
+  {
+    "rank": 146,
+    "city": "Cape Coral",
+    "state": "Florida",
+    "population": 165831
+  },
+  {
+    "rank": 147,
+    "city": "Sioux Falls",
+    "state": "South Dakota",
+    "population": 164676
+  },
+  {
+    "rank": 148,
+    "city": "Springfield",
+    "state": "Missouri",
+    "population": 164122
+  },
+  {
+    "rank": 149,
+    "city": "Peoria",
+    "state": "Arizona",
+    "population": 162592
+  },
+  {
+    "rank": 150,
+    "city": "Pembroke Pines",
+    "state": "Florida",
+    "population": 162329
+  },
+  {
+    "rank": 151,
+    "city": "Elk Grove",
+    "state": "California",
+    "population": 161007
+  },
+  {
+    "rank": 152,
+    "city": "Salem",
+    "state": "Oregon",
+    "population": 160614
+  },
+  {
+    "rank": 153,
+    "city": "Lancaster",
+    "state": "California",
+    "population": 159523
+  },
+  {
+    "rank": 154,
+    "city": "Corona",
+    "state": "California",
+    "population": 159503
+  },
+  {
+    "rank": 155,
+    "city": "Eugene",
+    "state": "Oregon",
+    "population": 159190
+  },
+  {
+    "rank": 156,
+    "city": "Palmdale",
+    "state": "California",
+    "population": 157161
+  },
+  {
+    "rank": 157,
+    "city": "Salinas",
+    "state": "California",
+    "population": 155662
+  },
+  {
+    "rank": 158,
+    "city": "Springfield",
+    "state": "Massachusetts",
+    "population": 153703
+  },
+  {
+    "rank": 159,
+    "city": "Pasadena",
+    "state": "Texas",
+    "population": 152735
+  },
+  {
+    "rank": 160,
+    "city": "Fort Collins",
+    "state": "Colorado",
+    "population": 152061
+  },
+  {
+    "rank": 161,
+    "city": "Hayward",
+    "state": "California",
+    "population": 151574
+  },
+  {
+    "rank": 162,
+    "city": "Pomona",
+    "state": "California",
+    "population": 151348
+  },
+  {
+    "rank": 163,
+    "city": "Cary",
+    "state": "North Carolina",
+    "population": 151088
+  },
+  {
+    "rank": 164,
+    "city": "Rockford",
+    "state": "Illinois",
+    "population": 150251
+  },
+  {
+    "rank": 165,
+    "city": "Alexandria",
+    "state": "Virginia",
+    "population": 148892
+  },
+  {
+    "rank": 166,
+    "city": "Escondido",
+    "state": "California",
+    "population": 148738
+  },
+  {
+    "rank": 167,
+    "city": "McKinney",
+    "state": "Texas",
+    "population": 148559
+  },
+  {
+    "rank": 168,
+    "city": "Kansas City",
+    "state": "Kansas",
+    "population": 148483
+  },
+  {
+    "rank": 169,
+    "city": "Joliet",
+    "state": "Illinois",
+    "population": 147806
+  },
+  {
+    "rank": 170,
+    "city": "Sunnyvale",
+    "state": "California",
+    "population": 147559
+  },
+  {
+    "rank": 171,
+    "city": "Torrance",
+    "state": "California",
+    "population": 147478
+  },
+  {
+    "rank": 172,
+    "city": "Bridgeport",
+    "state": "Connecticut",
+    "population": 147216
+  },
+  {
+    "rank": 173,
+    "city": "Lakewood",
+    "state": "Colorado",
+    "population": 147214
+  },
+  {
+    "rank": 174,
+    "city": "Hollywood",
+    "state": "Florida",
+    "population": 146526
+  },
+  {
+    "rank": 175,
+    "city": "Paterson",
+    "state": "New Jersey",
+    "population": 145948
+  },
+  {
+    "rank": 176,
+    "city": "Naperville",
+    "state": "Illinois",
+    "population": 144864
+  },
+  {
+    "rank": 177,
+    "city": "Syracuse",
+    "state": "New York",
+    "population": 144669
+  },
+  {
+    "rank": 178,
+    "city": "Mesquite",
+    "state": "Texas",
+    "population": 143484
+  },
+  {
+    "rank": 179,
+    "city": "Dayton",
+    "state": "Ohio",
+    "population": 143355
+  },
+  {
+    "rank": 180,
+    "city": "Savannah",
+    "state": "Georgia",
+    "population": 142772
+  },
+  {
+    "rank": 181,
+    "city": "Clarksville",
+    "state": "Tennessee",
+    "population": 142357
+  },
+  {
+    "rank": 182,
+    "city": "Orange",
+    "state": "California",
+    "population": 139969
+  },
+  {
+    "rank": 183,
+    "city": "Pasadena",
+    "state": "California",
+    "population": 139731
+  },
+  {
+    "rank": 184,
+    "city": "Fullerton",
+    "state": "California",
+    "population": 138981
+  },
+  {
+    "rank": 185,
+    "city": "Killeen",
+    "state": "Texas",
+    "population": 137147
+  },
+  {
+    "rank": 186,
+    "city": "Frisco",
+    "state": "Texas",
+    "population": 136791
+  },
+  {
+    "rank": 187,
+    "city": "Hampton",
+    "state": "Virginia",
+    "population": 136699
+  },
+  {
+    "rank": 188,
+    "city": "McAllen",
+    "state": "Texas",
+    "population": 136639
+  },
+  {
+    "rank": 189,
+    "city": "Warren",
+    "state": "Michigan",
+    "population": 134873
+  },
+  {
+    "rank": 190,
+    "city": "Bellevue",
+    "state": "Washington",
+    "population": 133992
+  },
+  {
+    "rank": 191,
+    "city": "West Valley City",
+    "state": "Utah",
+    "population": 133579
+  },
+  {
+    "rank": 192,
+    "city": "Columbia",
+    "state": "South Carolina",
+    "population": 133358
+  },
+  {
+    "rank": 193,
+    "city": "Olathe",
+    "state": "Kansas",
+    "population": 131885
+  },
+  {
+    "rank": 194,
+    "city": "Sterling Heights",
+    "state": "Michigan",
+    "population": 131224
+  },
+  {
+    "rank": 195,
+    "city": "New Haven",
+    "state": "Connecticut",
+    "population": 130660
+  },
+  {
+    "rank": 196,
+    "city": "Miramar",
+    "state": "Florida",
+    "population": 130288
+  },
+  {
+    "rank": 197,
+    "city": "Waco",
+    "state": "Texas",
+    "population": 129030
+  },
+  {
+    "rank": 198,
+    "city": "Thousand Oaks",
+    "state": "California",
+    "population": 128731
+  },
+  {
+    "rank": 199,
+    "city": "Cedar Rapids",
+    "state": "Iowa",
+    "population": 128429
+  },
+  {
+    "rank": 200,
+    "city": "Charleston",
+    "state": "South Carolina",
+    "population": 127999
+  },
+  {
+    "rank": 201,
+    "city": "Visalia",
+    "state": "California",
+    "population": 127763
+  },
+  {
+    "rank": 202,
+    "city": "Topeka",
+    "state": "Kansas",
+    "population": 127679
+  },
+  {
+    "rank": 203,
+    "city": "Elizabeth",
+    "state": "New Jersey",
+    "population": 127558
+  },
+  {
+    "rank": 204,
+    "city": "Gainesville",
+    "state": "Florida",
+    "population": 127488
+  },
+  {
+    "rank": 205,
+    "city": "Thornton",
+    "state": "Colorado",
+    "population": 127359
+  },
+  {
+    "rank": 206,
+    "city": "Roseville",
+    "state": "California",
+    "population": 127035
+  },
+  {
+    "rank": 207,
+    "city": "Carrollton",
+    "state": "Texas",
+    "population": 126700
+  },
+  {
+    "rank": 208,
+    "city": "Coral Springs",
+    "state": "Florida",
+    "population": 126604
+  },
+  {
+    "rank": 209,
+    "city": "Stamford",
+    "state": "Connecticut",
+    "population": 126456
+  },
+  {
+    "rank": 210,
+    "city": "Simi Valley",
+    "state": "California",
+    "population": 126181
+  },
+  {
+    "rank": 211,
+    "city": "Concord",
+    "state": "California",
+    "population": 125880
+  },
+  {
+    "rank": 212,
+    "city": "Hartford",
+    "state": "Connecticut",
+    "population": 125017
+  },
+  {
+    "rank": 213,
+    "city": "Kent",
+    "state": "Washington",
+    "population": 124435
+  },
+  {
+    "rank": 214,
+    "city": "Lafayette",
+    "state": "Louisiana",
+    "population": 124276
+  },
+  {
+    "rank": 215,
+    "city": "Midland",
+    "state": "Texas",
+    "population": 123933
+  },
+  {
+    "rank": 216,
+    "city": "Surprise",
+    "state": "Arizona",
+    "population": 123546
+  },
+  {
+    "rank": 217,
+    "city": "Denton",
+    "state": "Texas",
+    "population": 123099
+  },
+  {
+    "rank": 218,
+    "city": "Victorville",
+    "state": "California",
+    "population": 121096
+  },
+  {
+    "rank": 219,
+    "city": "Evansville",
+    "state": "Indiana",
+    "population": 120310
+  },
+  {
+    "rank": 220,
+    "city": "Santa Clara",
+    "state": "California",
+    "population": 120245
+  },
+  {
+    "rank": 221,
+    "city": "Abilene",
+    "state": "Texas",
+    "population": 120099
+  },
+  {
+    "rank": 222,
+    "city": "Athens-Clarke County",
+    "state": "Georgia",
+    "population": 119980
+  },
+  {
+    "rank": 223,
+    "city": "Vallejo",
+    "state": "California",
+    "population": 118837
+  },
+  {
+    "rank": 224,
+    "city": "Allentown",
+    "state": "Pennsylvania",
+    "population": 118577
+  },
+  {
+    "rank": 225,
+    "city": "Norman",
+    "state": "Oklahoma",
+    "population": 118197
+  },
+  {
+    "rank": 226,
+    "city": "Beaumont",
+    "state": "Texas",
+    "population": 117796
+  },
+  {
+    "rank": 227,
+    "city": "Independence",
+    "state": "Missouri",
+    "population": 117240
+  },
+  {
+    "rank": 228,
+    "city": "Murfreesboro",
+    "state": "Tennessee",
+    "population": 117044
+  },
+  {
+    "rank": 229,
+    "city": "Ann Arbor",
+    "state": "Michigan",
+    "population": 117025
+  },
+  {
+    "rank": 230,
+    "city": "Springfield",
+    "state": "Illinois",
+    "population": 117006
+  },
+  {
+    "rank": 231,
+    "city": "Berkeley",
+    "state": "California",
+    "population": 116768
+  },
+  {
+    "rank": 232,
+    "city": "Peoria",
+    "state": "Illinois",
+    "population": 116513
+  },
+  {
+    "rank": 233,
+    "city": "Provo",
+    "state": "Utah",
+    "population": 116288
+  },
+  {
+    "rank": 234,
+    "city": "El Monte",
+    "state": "California",
+    "population": 115708
+  },
+  {
+    "rank": 235,
+    "city": "Columbia",
+    "state": "Missouri",
+    "population": 115276
+  },
+  {
+    "rank": 236,
+    "city": "Lansing",
+    "state": "Michigan",
+    "population": 113972
+  },
+  {
+    "rank": 237,
+    "city": "Fargo",
+    "state": "North Dakota",
+    "population": 113658
+  },
+  {
+    "rank": 238,
+    "city": "Downey",
+    "state": "California",
+    "population": 113242
+  },
+  {
+    "rank": 239,
+    "city": "Costa Mesa",
+    "state": "California",
+    "population": 112174
+  },
+  {
+    "rank": 240,
+    "city": "Wilmington",
+    "state": "North Carolina",
+    "population": 112067
+  },
+  {
+    "rank": 241,
+    "city": "Arvada",
+    "state": "Colorado",
+    "population": 111707
+  },
+  {
+    "rank": 242,
+    "city": "Inglewood",
+    "state": "California",
+    "population": 111542
+  },
+  {
+    "rank": 243,
+    "city": "Miami Gardens",
+    "state": "Florida",
+    "population": 111378
+  },
+  {
+    "rank": 244,
+    "city": "Carlsbad",
+    "state": "California",
+    "population": 110972
+  },
+  {
+    "rank": 245,
+    "city": "Westminster",
+    "state": "Colorado",
+    "population": 110945
+  },
+  {
+    "rank": 246,
+    "city": "Rochester",
+    "state": "Minnesota",
+    "population": 110742
+  },
+  {
+    "rank": 247,
+    "city": "Odessa",
+    "state": "Texas",
+    "population": 110720
+  },
+  {
+    "rank": 248,
+    "city": "Manchester",
+    "state": "New Hampshire",
+    "population": 110378
+  },
+  {
+    "rank": 249,
+    "city": "Elgin",
+    "state": "Illinois",
+    "population": 110145
+  },
+  {
+    "rank": 250,
+    "city": "West Jordan",
+    "state": "Utah",
+    "population": 110077
+  },
+  {
+    "rank": 251,
+    "city": "Round Rock",
+    "state": "Texas",
+    "population": 109821
+  },
+  {
+    "rank": 252,
+    "city": "Clearwater",
+    "state": "Florida",
+    "population": 109703
+  },
+  {
+    "rank": 253,
+    "city": "Waterbury",
+    "state": "Connecticut",
+    "population": 109676
+  },
+  {
+    "rank": 254,
+    "city": "Gresham",
+    "state": "Oregon",
+    "population": 109397
+  },
+  {
+    "rank": 255,
+    "city": "Fairfield",
+    "state": "California",
+    "population": 109320
+  },
+  {
+    "rank": 256,
+    "city": "Billings",
+    "state": "Montana",
+    "population": 109059
+  },
+  {
+    "rank": 257,
+    "city": "Lowell",
+    "state": "Massachusetts",
+    "population": 108861
+  },
+  {
+    "rank": 258,
+    "city": "San Buenaventura (Ventura)",
+    "state": "California",
+    "population": 108817
+  },
+  {
+    "rank": 259,
+    "city": "Pueblo",
+    "state": "Colorado",
+    "population": 108249
+  },
+  {
+    "rank": 260,
+    "city": "High Point",
+    "state": "North Carolina",
+    "population": 107741
+  },
+  {
+    "rank": 261,
+    "city": "West Covina",
+    "state": "California",
+    "population": 107740
+  },
+  {
+    "rank": 262,
+    "city": "Richmond",
+    "state": "California",
+    "population": 107571
+  },
+  {
+    "rank": 263,
+    "city": "Murrieta",
+    "state": "California",
+    "population": 107479
+  },
+  {
+    "rank": 264,
+    "city": "Cambridge",
+    "state": "Massachusetts",
+    "population": 107289
+  },
+  {
+    "rank": 265,
+    "city": "Antioch",
+    "state": "California",
+    "population": 107100
+  },
+  {
+    "rank": 266,
+    "city": "Temecula",
+    "state": "California",
+    "population": 106780
+  },
+  {
+    "rank": 267,
+    "city": "Norwalk",
+    "state": "California",
+    "population": 106589
+  },
+  {
+    "rank": 268,
+    "city": "Centennial",
+    "state": "Colorado",
+    "population": 106114
+  },
+  {
+    "rank": 269,
+    "city": "Everett",
+    "state": "Washington",
+    "population": 105370
+  },
+  {
+    "rank": 270,
+    "city": "Wichita Falls",
+    "state": "Texas",
+    "population": 104898
+  },
+  {
+    "rank": 271,
+    "city": "Palm Bay",
+    "state": "Florida",
+    "population": 104898
+  },
+  {
+    "rank": 272,
+    "city": "Green Bay",
+    "state": "Wisconsin",
+    "population": 104779
+  },
+  {
+    "rank": 273,
+    "city": "Daly City",
+    "state": "California",
+    "population": 104739
+  },
+  {
+    "rank": 274,
+    "city": "Burbank",
+    "state": "California",
+    "population": 104709
+  },
+  {
+    "rank": 275,
+    "city": "Richardson",
+    "state": "Texas",
+    "population": 104475
+  },
+  {
+    "rank": 276,
+    "city": "Pompano Beach",
+    "state": "Florida",
+    "population": 104410
+  },
+  {
+    "rank": 277,
+    "city": "North Charleston",
+    "state": "South Carolina",
+    "population": 104054
+  },
+  {
+    "rank": 278,
+    "city": "Broken Arrow",
+    "state": "Oklahoma",
+    "population": 103500
+  },
+  {
+    "rank": 279,
+    "city": "Boulder",
+    "state": "Colorado",
+    "population": 103166
+  },
+  {
+    "rank": 280,
+    "city": "West Palm Beach",
+    "state": "Florida",
+    "population": 102436
+  },
+  {
+    "rank": 281,
+    "city": "Santa Maria",
+    "state": "California",
+    "population": 102216
+  },
+  {
+    "rank": 282,
+    "city": "El Cajon",
+    "state": "California",
+    "population": 102211
+  },
+  {
+    "rank": 283,
+    "city": "Davenport",
+    "state": "Iowa",
+    "population": 102157
+  },
+  {
+    "rank": 284,
+    "city": "Rialto",
+    "state": "California",
+    "population": 101910
+  },
+  {
+    "rank": 285,
+    "city": "Las Cruces",
+    "state": "New Mexico",
+    "population": 101324
+  },
+  {
+    "rank": 286,
+    "city": "San Mateo",
+    "state": "California",
+    "population": 101128
+  },
+  {
+    "rank": 287,
+    "city": "Lewisville",
+    "state": "Texas",
+    "population": 101074
+  },
+  {
+    "rank": 288,
+    "city": "South Bend",
+    "state": "Indiana",
+    "population": 100886
+  },
+  {
+    "rank": 289,
+    "city": "Lakeland",
+    "state": "Florida",
+    "population": 100710
+  },
+  {
+    "rank": 290,
+    "city": "Erie",
+    "state": "Pennsylvania",
+    "population": 100671
+  },
+  {
+    "rank": 291,
+    "city": "Tyler",
+    "state": "Texas",
+    "population": 100223
+  },
+  {
+    "rank": 292,
+    "city": "Pearland",
+    "state": "Texas",
+    "population": 100065
+  },
+  {
+    "rank": 293,
+    "city": "College Station",
+    "state": "Texas",
+    "population": 100050
+  },
+  {
+    "rank": 294,
+    "city": "Kenosha",
+    "state": "Wisconsin",
+    "population": 99889
+  },
+  {
+    "rank": 295,
+    "city": "Sandy Springs",
+    "state": "Georgia",
+    "population": 99770
+  },
+  {
+    "rank": 296,
+    "city": "Clovis",
+    "state": "California",
+    "population": 99769
+  },
+  {
+    "rank": 297,
+    "city": "Flint",
+    "state": "Michigan",
+    "population": 99763
+  },
+  {
+    "rank": 298,
+    "city": "Roanoke",
+    "state": "Virginia",
+    "population": 98465
+  },
+  {
+    "rank": 299,
+    "city": "Albany",
+    "state": "New York",
+    "population": 98424
+  },
+  {
+    "rank": 300,
+    "city": "Jurupa Valley",
+    "state": "California",
+    "population": 98030
+  },
+  {
+    "rank": 301,
+    "city": "Compton",
+    "state": "California",
+    "population": 97877
+  },
+  {
+    "rank": 302,
+    "city": "San Angelo",
+    "state": "Texas",
+    "population": 97492
+  },
+  {
+    "rank": 303,
+    "city": "Hillsboro",
+    "state": "Oregon",
+    "population": 97368
+  },
+  {
+    "rank": 304,
+    "city": "Lawton",
+    "state": "Oklahoma",
+    "population": 97151
+  },
+  {
+    "rank": 305,
+    "city": "Renton",
+    "state": "Washington",
+    "population": 97003
+  },
+  {
+    "rank": 306,
+    "city": "Vista",
+    "state": "California",
+    "population": 96929
+  },
+  {
+    "rank": 307,
+    "city": "Davie",
+    "state": "Florida",
+    "population": 96830
+  },
+  {
+    "rank": 308,
+    "city": "Greeley",
+    "state": "Colorado",
+    "population": 96539
+  },
+  {
+    "rank": 309,
+    "city": "Mission Viejo",
+    "state": "California",
+    "population": 96346
+  },
+  {
+    "rank": 310,
+    "city": "Portsmouth",
+    "state": "Virginia",
+    "population": 96205
+  },
+  {
+    "rank": 311,
+    "city": "Dearborn",
+    "state": "Michigan",
+    "population": 95884
+  },
+  {
+    "rank": 312,
+    "city": "South Gate",
+    "state": "California",
+    "population": 95677
+  },
+  {
+    "rank": 313,
+    "city": "Tuscaloosa",
+    "state": "Alabama",
+    "population": 95334
+  },
+  {
+    "rank": 314,
+    "city": "Livonia",
+    "state": "Michigan",
+    "population": 95208
+  },
+  {
+    "rank": 315,
+    "city": "New Bedford",
+    "state": "Massachusetts",
+    "population": 95078
+  },
+  {
+    "rank": 316,
+    "city": "Vacaville",
+    "state": "California",
+    "population": 94275
+  },
+  {
+    "rank": 317,
+    "city": "Brockton",
+    "state": "Massachusetts",
+    "population": 94089
+  },
+  {
+    "rank": 318,
+    "city": "Roswell",
+    "state": "Georgia",
+    "population": 94034
+  },
+  {
+    "rank": 319,
+    "city": "Beaverton",
+    "state": "Oregon",
+    "population": 93542
+  },
+  {
+    "rank": 320,
+    "city": "Quincy",
+    "state": "Massachusetts",
+    "population": 93494
+  },
+  {
+    "rank": 321,
+    "city": "Sparks",
+    "state": "Nevada",
+    "population": 93282
+  },
+  {
+    "rank": 322,
+    "city": "Yakima",
+    "state": "Washington",
+    "population": 93257
+  },
+  {
+    "rank": 323,
+    "city": "Lee's Summit",
+    "state": "Missouri",
+    "population": 93184
+  },
+  {
+    "rank": 324,
+    "city": "Federal Way",
+    "state": "Washington",
+    "population": 92734
+  },
+  {
+    "rank": 325,
+    "city": "Carson",
+    "state": "California",
+    "population": 92599
+  },
+  {
+    "rank": 326,
+    "city": "Santa Monica",
+    "state": "California",
+    "population": 92472
+  },
+  {
+    "rank": 327,
+    "city": "Hesperia",
+    "state": "California",
+    "population": 92147
+  },
+  {
+    "rank": 328,
+    "city": "Allen",
+    "state": "Texas",
+    "population": 92020
+  },
+  {
+    "rank": 329,
+    "city": "Rio Rancho",
+    "state": "New Mexico",
+    "population": 91956
+  },
+  {
+    "rank": 330,
+    "city": "Yuma",
+    "state": "Arizona",
+    "population": 91923
+  },
+  {
+    "rank": 331,
+    "city": "Westminster",
+    "state": "California",
+    "population": 91739
+  },
+  {
+    "rank": 332,
+    "city": "Orem",
+    "state": "Utah",
+    "population": 91648
+  },
+  {
+    "rank": 333,
+    "city": "Lynn",
+    "state": "Massachusetts",
+    "population": 91589
+  },
+  {
+    "rank": 334,
+    "city": "Redding",
+    "state": "California",
+    "population": 91119
+  },
+  {
+    "rank": 335,
+    "city": "Spokane Valley",
+    "state": "Washington",
+    "population": 91113
+  },
+  {
+    "rank": 336,
+    "city": "Miami Beach",
+    "state": "Florida",
+    "population": 91026
+  },
+  {
+    "rank": 337,
+    "city": "League City",
+    "state": "Texas",
+    "population": 90983
+  },
+  {
+    "rank": 338,
+    "city": "Lawrence",
+    "state": "Kansas",
+    "population": 90811
+  },
+  {
+    "rank": 339,
+    "city": "Santa Barbara",
+    "state": "California",
+    "population": 90412
+  },
+  {
+    "rank": 340,
+    "city": "Plantation",
+    "state": "Florida",
+    "population": 90268
+  },
+  {
+    "rank": 341,
+    "city": "Sandy",
+    "state": "Utah",
+    "population": 90231
+  },
+  {
+    "rank": 342,
+    "city": "Sunrise",
+    "state": "Florida",
+    "population": 90116
+  },
+  {
+    "rank": 343,
+    "city": "Macon",
+    "state": "Georgia",
+    "population": 89981
+  },
+  {
+    "rank": 344,
+    "city": "Longmont",
+    "state": "Colorado",
+    "population": 89919
+  },
+  {
+    "rank": 345,
+    "city": "Boca Raton",
+    "state": "Florida",
+    "population": 89407
+  },
+  {
+    "rank": 346,
+    "city": "San Marcos",
+    "state": "California",
+    "population": 89387
+  },
+  {
+    "rank": 347,
+    "city": "Greenville",
+    "state": "North Carolina",
+    "population": 89130
+  },
+  {
+    "rank": 348,
+    "city": "Waukegan",
+    "state": "Illinois",
+    "population": 88826
+  },
+  {
+    "rank": 349,
+    "city": "Fall River",
+    "state": "Massachusetts",
+    "population": 88697
+  },
+  {
+    "rank": 350,
+    "city": "Chico",
+    "state": "California",
+    "population": 88077
+  },
+  {
+    "rank": 351,
+    "city": "Newton",
+    "state": "Massachusetts",
+    "population": 87971
+  },
+  {
+    "rank": 352,
+    "city": "San Leandro",
+    "state": "California",
+    "population": 87965
+  },
+  {
+    "rank": 353,
+    "city": "Reading",
+    "state": "Pennsylvania",
+    "population": 87893
+  },
+  {
+    "rank": 354,
+    "city": "Norwalk",
+    "state": "Connecticut",
+    "population": 87776
+  },
+  {
+    "rank": 355,
+    "city": "Fort Smith",
+    "state": "Arkansas",
+    "population": 87650
+  },
+  {
+    "rank": 356,
+    "city": "Newport Beach",
+    "state": "California",
+    "population": 87273
+  },
+  {
+    "rank": 357,
+    "city": "Asheville",
+    "state": "North Carolina",
+    "population": 87236
+  },
+  {
+    "rank": 358,
+    "city": "Nashua",
+    "state": "New Hampshire",
+    "population": 87137
+  },
+  {
+    "rank": 359,
+    "city": "Edmond",
+    "state": "Oklahoma",
+    "population": 87004
+  },
+  {
+    "rank": 360,
+    "city": "Whittier",
+    "state": "California",
+    "population": 86635
+  },
+  {
+    "rank": 361,
+    "city": "Nampa",
+    "state": "Idaho",
+    "population": 86518
+  },
+  {
+    "rank": 362,
+    "city": "Bloomington",
+    "state": "Minnesota",
+    "population": 86319
+  },
+  {
+    "rank": 363,
+    "city": "Deltona",
+    "state": "Florida",
+    "population": 86290
+  },
+  {
+    "rank": 364,
+    "city": "Hawthorne",
+    "state": "California",
+    "population": 86199
+  },
+  {
+    "rank": 365,
+    "city": "Duluth",
+    "state": "Minnesota",
+    "population": 86128
+  },
+  {
+    "rank": 366,
+    "city": "Carmel",
+    "state": "Indiana",
+    "population": 85927
+  },
+  {
+    "rank": 367,
+    "city": "Suffolk",
+    "state": "Virginia",
+    "population": 85728
+  },
+  {
+    "rank": 368,
+    "city": "Clifton",
+    "state": "New Jersey",
+    "population": 85390
+  },
+  {
+    "rank": 369,
+    "city": "Citrus Heights",
+    "state": "California",
+    "population": 85285
+  },
+  {
+    "rank": 370,
+    "city": "Livermore",
+    "state": "California",
+    "population": 85156
+  },
+  {
+    "rank": 371,
+    "city": "Tracy",
+    "state": "California",
+    "population": 84691
+  },
+  {
+    "rank": 372,
+    "city": "Alhambra",
+    "state": "California",
+    "population": 84577
+  },
+  {
+    "rank": 373,
+    "city": "Kirkland",
+    "state": "Washington",
+    "population": 84430
+  },
+  {
+    "rank": 374,
+    "city": "Trenton",
+    "state": "New Jersey",
+    "population": 84349
+  },
+  {
+    "rank": 375,
+    "city": "Ogden",
+    "state": "Utah",
+    "population": 84249
+  },
+  {
+    "rank": 376,
+    "city": "Hoover",
+    "state": "Alabama",
+    "population": 84126
+  },
+  {
+    "rank": 377,
+    "city": "Cicero",
+    "state": "Illinois",
+    "population": 84103
+  },
+  {
+    "rank": 378,
+    "city": "Fishers",
+    "state": "Indiana",
+    "population": 83891
+  },
+  {
+    "rank": 379,
+    "city": "Sugar Land",
+    "state": "Texas",
+    "population": 83860
+  },
+  {
+    "rank": 380,
+    "city": "Danbury",
+    "state": "Connecticut",
+    "population": 83684
+  },
+  {
+    "rank": 381,
+    "city": "Meridian",
+    "state": "Idaho",
+    "population": 83596
+  },
+  {
+    "rank": 382,
+    "city": "Indio",
+    "state": "California",
+    "population": 83539
+  },
+  {
+    "rank": 383,
+    "city": "Concord",
+    "state": "North Carolina",
+    "population": 83506
+  },
+  {
+    "rank": 384,
+    "city": "Menifee",
+    "state": "California",
+    "population": 83447
+  },
+  {
+    "rank": 385,
+    "city": "Champaign",
+    "state": "Illinois",
+    "population": 83424
+  },
+  {
+    "rank": 386,
+    "city": "Buena Park",
+    "state": "California",
+    "population": 82882
+  },
+  {
+    "rank": 387,
+    "city": "Troy",
+    "state": "Michigan",
+    "population": 82821
+  },
+  {
+    "rank": 388,
+    "city": "O'Fallon",
+    "state": "Missouri",
+    "population": 82809
+  },
+  {
+    "rank": 389,
+    "city": "Johns Creek",
+    "state": "Georgia",
+    "population": 82788
+  },
+  {
+    "rank": 390,
+    "city": "Bellingham",
+    "state": "Washington",
+    "population": 82631
+  },
+  {
+    "rank": 391,
+    "city": "Westland",
+    "state": "Michigan",
+    "population": 82578
+  },
+  {
+    "rank": 392,
+    "city": "Bloomington",
+    "state": "Indiana",
+    "population": 82575
+  },
+  {
+    "rank": 393,
+    "city": "Sioux City",
+    "state": "Iowa",
+    "population": 82459
+  },
+  {
+    "rank": 394,
+    "city": "Warwick",
+    "state": "Rhode Island",
+    "population": 81971
+  },
+  {
+    "rank": 395,
+    "city": "Hemet",
+    "state": "California",
+    "population": 81750
+  },
+  {
+    "rank": 396,
+    "city": "Longview",
+    "state": "Texas",
+    "population": 81443
+  },
+  {
+    "rank": 397,
+    "city": "Farmington Hills",
+    "state": "Michigan",
+    "population": 81295
+  },
+  {
+    "rank": 398,
+    "city": "Bend",
+    "state": "Oregon",
+    "population": 81236
+  },
+  {
+    "rank": 399,
+    "city": "Lakewood",
+    "state": "California",
+    "population": 81121
+  },
+  {
+    "rank": 400,
+    "city": "Merced",
+    "state": "California",
+    "population": 81102
+  },
+  {
+    "rank": 401,
+    "city": "Mission",
+    "state": "Texas",
+    "population": 81050
+  },
+  {
+    "rank": 402,
+    "city": "Chino",
+    "state": "California",
+    "population": 80988
+  },
+  {
+    "rank": 403,
+    "city": "Redwood City",
+    "state": "California",
+    "population": 80872
+  },
+  {
+    "rank": 404,
+    "city": "Edinburg",
+    "state": "Texas",
+    "population": 80836
+  },
+  {
+    "rank": 405,
+    "city": "Cranston",
+    "state": "Rhode Island",
+    "population": 80566
+  },
+  {
+    "rank": 406,
+    "city": "Parma",
+    "state": "Ohio",
+    "population": 80429
+  },
+  {
+    "rank": 407,
+    "city": "New Rochelle",
+    "state": "New York",
+    "population": 79446
+  },
+  {
+    "rank": 408,
+    "city": "Lake Forest",
+    "state": "California",
+    "population": 79312
+  },
+  {
+    "rank": 409,
+    "city": "Napa",
+    "state": "California",
+    "population": 79068
+  },
+  {
+    "rank": 410,
+    "city": "Hammond",
+    "state": "Indiana",
+    "population": 78967
+  },
+  {
+    "rank": 411,
+    "city": "Fayetteville",
+    "state": "Arkansas",
+    "population": 78960
+  },
+  {
+    "rank": 412,
+    "city": "Bloomington",
+    "state": "Illinois",
+    "population": 78902
+  },
+  {
+    "rank": 413,
+    "city": "Avondale",
+    "state": "Arizona",
+    "population": 78822
+  },
+  {
+    "rank": 414,
+    "city": "Somerville",
+    "state": "Massachusetts",
+    "population": 78804
+  },
+  {
+    "rank": 415,
+    "city": "Palm Coast",
+    "state": "Florida",
+    "population": 78740
+  },
+  {
+    "rank": 416,
+    "city": "Bryan",
+    "state": "Texas",
+    "population": 78709
+  },
+  {
+    "rank": 417,
+    "city": "Gary",
+    "state": "Indiana",
+    "population": 78450
+  },
+  {
+    "rank": 418,
+    "city": "Largo",
+    "state": "Florida",
+    "population": 78409
+  },
+  {
+    "rank": 419,
+    "city": "Brooklyn Park",
+    "state": "Minnesota",
+    "population": 78373
+  },
+  {
+    "rank": 420,
+    "city": "Tustin",
+    "state": "California",
+    "population": 78327
+  },
+  {
+    "rank": 421,
+    "city": "Racine",
+    "state": "Wisconsin",
+    "population": 78199
+  },
+  {
+    "rank": 422,
+    "city": "Deerfield Beach",
+    "state": "Florida",
+    "population": 78041
+  },
+  {
+    "rank": 423,
+    "city": "Lynchburg",
+    "state": "Virginia",
+    "population": 78014
+  },
+  {
+    "rank": 424,
+    "city": "Mountain View",
+    "state": "California",
+    "population": 77846
+  },
+  {
+    "rank": 425,
+    "city": "Medford",
+    "state": "Oregon",
+    "population": 77677
+  },
+  {
+    "rank": 426,
+    "city": "Lawrence",
+    "state": "Massachusetts",
+    "population": 77657
+  },
+  {
+    "rank": 427,
+    "city": "Bellflower",
+    "state": "California",
+    "population": 77593
+  },
+  {
+    "rank": 428,
+    "city": "Melbourne",
+    "state": "Florida",
+    "population": 77508
+  },
+  {
+    "rank": 429,
+    "city": "St. Joseph",
+    "state": "Missouri",
+    "population": 77147
+  },
+  {
+    "rank": 430,
+    "city": "Camden",
+    "state": "New Jersey",
+    "population": 76903
+  },
+  {
+    "rank": 431,
+    "city": "St. George",
+    "state": "Utah",
+    "population": 76817
+  },
+  {
+    "rank": 432,
+    "city": "Kennewick",
+    "state": "Washington",
+    "population": 76762
+  },
+  {
+    "rank": 433,
+    "city": "Baldwin Park",
+    "state": "California",
+    "population": 76635
+  },
+  {
+    "rank": 434,
+    "city": "Chino Hills",
+    "state": "California",
+    "population": 76572
+  },
+  {
+    "rank": 435,
+    "city": "Alameda",
+    "state": "California",
+    "population": 76419
+  },
+  {
+    "rank": 436,
+    "city": "Albany",
+    "state": "Georgia",
+    "population": 76185
+  },
+  {
+    "rank": 437,
+    "city": "Arlington Heights",
+    "state": "Illinois",
+    "population": 75994
+  },
+  {
+    "rank": 438,
+    "city": "Scranton",
+    "state": "Pennsylvania",
+    "population": 75806
+  },
+  {
+    "rank": 439,
+    "city": "Evanston",
+    "state": "Illinois",
+    "population": 75570
+  },
+  {
+    "rank": 440,
+    "city": "Kalamazoo",
+    "state": "Michigan",
+    "population": 75548
+  },
+  {
+    "rank": 441,
+    "city": "Baytown",
+    "state": "Texas",
+    "population": 75418
+  },
+  {
+    "rank": 442,
+    "city": "Upland",
+    "state": "California",
+    "population": 75413
+  },
+  {
+    "rank": 443,
+    "city": "Springdale",
+    "state": "Arkansas",
+    "population": 75229
+  },
+  {
+    "rank": 444,
+    "city": "Bethlehem",
+    "state": "Pennsylvania",
+    "population": 75018
+  },
+  {
+    "rank": 445,
+    "city": "Schaumburg",
+    "state": "Illinois",
+    "population": 74907
+  },
+  {
+    "rank": 446,
+    "city": "Mount Pleasant",
+    "state": "South Carolina",
+    "population": 74885
+  },
+  {
+    "rank": 447,
+    "city": "Auburn",
+    "state": "Washington",
+    "population": 74860
+  },
+  {
+    "rank": 448,
+    "city": "Decatur",
+    "state": "Illinois",
+    "population": 74710
+  },
+  {
+    "rank": 449,
+    "city": "San Ramon",
+    "state": "California",
+    "population": 74513
+  },
+  {
+    "rank": 450,
+    "city": "Pleasanton",
+    "state": "California",
+    "population": 74110
+  },
+  {
+    "rank": 451,
+    "city": "Wyoming",
+    "state": "Michigan",
+    "population": 74100
+  },
+  {
+    "rank": 452,
+    "city": "Lake Charles",
+    "state": "Louisiana",
+    "population": 74024
+  },
+  {
+    "rank": 453,
+    "city": "Plymouth",
+    "state": "Minnesota",
+    "population": 73987
+  },
+  {
+    "rank": 454,
+    "city": "Bolingbrook",
+    "state": "Illinois",
+    "population": 73936
+  },
+  {
+    "rank": 455,
+    "city": "Pharr",
+    "state": "Texas",
+    "population": 73790
+  },
+  {
+    "rank": 456,
+    "city": "Appleton",
+    "state": "Wisconsin",
+    "population": 73596
+  },
+  {
+    "rank": 457,
+    "city": "Gastonia",
+    "state": "North Carolina",
+    "population": 73209
+  },
+  {
+    "rank": 458,
+    "city": "Folsom",
+    "state": "California",
+    "population": 73098
+  },
+  {
+    "rank": 459,
+    "city": "Southfield",
+    "state": "Michigan",
+    "population": 73006
+  },
+  {
+    "rank": 460,
+    "city": "Rochester Hills",
+    "state": "Michigan",
+    "population": 72952
+  },
+  {
+    "rank": 461,
+    "city": "New Britain",
+    "state": "Connecticut",
+    "population": 72939
+  },
+  {
+    "rank": 462,
+    "city": "Goodyear",
+    "state": "Arizona",
+    "population": 72864
+  },
+  {
+    "rank": 463,
+    "city": "Canton",
+    "state": "Ohio",
+    "population": 72535
+  },
+  {
+    "rank": 464,
+    "city": "Warner Robins",
+    "state": "Georgia",
+    "population": 72531
+  },
+  {
+    "rank": 465,
+    "city": "Union City",
+    "state": "California",
+    "population": 72528
+  },
+  {
+    "rank": 466,
+    "city": "Perris",
+    "state": "California",
+    "population": 72326
+  },
+  {
+    "rank": 467,
+    "city": "Manteca",
+    "state": "California",
+    "population": 71948
+  },
+  {
+    "rank": 468,
+    "city": "Iowa City",
+    "state": "Iowa",
+    "population": 71591
+  },
+  {
+    "rank": 469,
+    "city": "Jonesboro",
+    "state": "Arkansas",
+    "population": 71551
+  },
+  {
+    "rank": 470,
+    "city": "Wilmington",
+    "state": "Delaware",
+    "population": 71525
+  },
+  {
+    "rank": 471,
+    "city": "Lynwood",
+    "state": "California",
+    "population": 71371
+  },
+  {
+    "rank": 472,
+    "city": "Loveland",
+    "state": "Colorado",
+    "population": 71334
+  },
+  {
+    "rank": 473,
+    "city": "Pawtucket",
+    "state": "Rhode Island",
+    "population": 71172
+  },
+  {
+    "rank": 474,
+    "city": "Boynton Beach",
+    "state": "Florida",
+    "population": 71097
+  },
+  {
+    "rank": 475,
+    "city": "Waukesha",
+    "state": "Wisconsin",
+    "population": 71016
+  },
+  {
+    "rank": 476,
+    "city": "Gulfport",
+    "state": "Mississippi",
+    "population": 71012
+  },
+  {
+    "rank": 477,
+    "city": "Apple Valley",
+    "state": "California",
+    "population": 70924
+  },
+  {
+    "rank": 478,
+    "city": "Passaic",
+    "state": "New Jersey",
+    "population": 70868
+  },
+  {
+    "rank": 479,
+    "city": "Rapid City",
+    "state": "South Dakota",
+    "population": 70812
+  },
+  {
+    "rank": 480,
+    "city": "Layton",
+    "state": "Utah",
+    "population": 70790
+  },
+  {
+    "rank": 481,
+    "city": "Lafayette",
+    "state": "Indiana",
+    "population": 70373
+  },
+  {
+    "rank": 482,
+    "city": "Turlock",
+    "state": "California",
+    "population": 70365
+  },
+  {
+    "rank": 483,
+    "city": "Muncie",
+    "state": "Indiana",
+    "population": 70316
+  },
+  {
+    "rank": 484,
+    "city": "Temple",
+    "state": "Texas",
+    "population": 70190
+  },
+  {
+    "rank": 485,
+    "city": "Missouri City",
+    "state": "Texas",
+    "population": 70185
+  },
+  {
+    "rank": 486,
+    "city": "Redlands",
+    "state": "California",
+    "population": 69999
+  },
+  {
+    "rank": 487,
+    "city": "Santa Fe",
+    "state": "New Mexico",
+    "population": 69976
+  },
+  {
+    "rank": 488,
+    "city": "Lauderhill",
+    "state": "Florida",
+    "population": 69813
+  },
+  {
+    "rank": 489,
+    "city": "Milpitas",
+    "state": "California",
+    "population": 69783
+  },
+  {
+    "rank": 490,
+    "city": "Palatine",
+    "state": "Illinois",
+    "population": 69350
+  },
+  {
+    "rank": 491,
+    "city": "Missoula",
+    "state": "Montana",
+    "population": 69122
+  },
+  {
+    "rank": 492,
+    "city": "Rock Hill",
+    "state": "South Carolina",
+    "population": 69103
+  },
+  {
+    "rank": 493,
+    "city": "Jacksonville",
+    "state": "North Carolina",
+    "population": 69079
+  },
+  {
+    "rank": 494,
+    "city": "Franklin",
+    "state": "Tennessee",
+    "population": 68886
+  },
+  {
+    "rank": 495,
+    "city": "Flagstaff",
+    "state": "Arizona",
+    "population": 68667
+  },
+  {
+    "rank": 496,
+    "city": "Flower Mound",
+    "state": "Texas",
+    "population": 68609
+  },
+  {
+    "rank": 497,
+    "city": "Weston",
+    "state": "Florida",
+    "population": 68388
+  },
+  {
+    "rank": 498,
+    "city": "Waterloo",
+    "state": "Iowa",
+    "population": 68366
+  },
+  {
+    "rank": 499,
+    "city": "Union City",
+    "state": "New Jersey",
+    "population": 68247
+  },
+  {
+    "rank": 500,
+    "city": "Mount Vernon",
+    "state": "New York",
+    "population": 68224
+  }
+]

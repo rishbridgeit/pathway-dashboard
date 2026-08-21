@@ -108,7 +108,7 @@
         <div class="stat-body">
           <span class="stat-label">Remote roles</span>
           <div class="stat-line">
-            <span class="stat-value stat-na">Not available right now</span>
+            <span class="stat-value stat-na">Not queried in this pull</span>
           </div>
         </div>
       </div>
@@ -118,7 +118,7 @@
         <div class="stat-body">
           <span class="stat-label">Typical Degree Requirements</span>
           <div class="stat-line">
-            <span class="stat-value stat-na">Not available</span>
+            <span class="stat-value stat-na">Not queried in this pull</span>
           </div>
         </div>
       </div>
@@ -128,7 +128,7 @@
         <div class="stat-body">
           <span class="stat-label">Hiring employers</span>
           <div class="stat-line">
-            <span class="stat-value stat-na">Not available right now</span>
+            <span class="stat-value stat-na">Not queried in this pull</span>
           </div>
         </div>
       </div>
@@ -157,7 +157,7 @@
           <span class="expand-btn">&#8599;</span>
         </div>
         <div class="widget-empty">
-          Not available &mdash; unconfirmed whether JobSpikr exposes an employer-name field.
+          <span class="stat-na">Not queried in this pull</span>
         </div>
       </div>
 
@@ -238,8 +238,10 @@
           </div>
         </div>
         <div class="widget-empty tall">
-          Not available &mdash; same gap as above, plus salary fields aren't
-          extracted yet either.
+          Not available &mdash; this pull queries a single month, so there's no
+          month-over-month trend to show yet, even for the jobs where salary is captured.
+          A trend needs multiple monthly buckets, which the API supports but we haven't
+          queried yet.
         </div>
       </div>
     </section>

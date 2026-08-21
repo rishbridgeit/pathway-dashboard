@@ -281,7 +281,7 @@ function renderSalaryWidget() {
 
   if (!filtered.length) {
     emptyEl.style.display = '';
-    emptyEl.textContent = 'No salary data for this job in the current filters (JobSpikr needs a minimum sample size per city to compute salary).';
+    emptyEl.innerHTML = '<span class="stat-na">No salary data for this job with the current filters</span>';
     listEl.style.display = 'none';
     return;
   }
